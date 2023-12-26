@@ -1,0 +1,27 @@
+Welcome!!
+
+--------------------------
+1. Setup and Systems Check
+--------------------------
+
+TODO:
+
+[] quick brightspace check: forum and zoom recordings
+
+< cable link: https://a.co/d/4TtzJs3 >
+
+[] Install Visual Studio Code: https://rb.gy/frrha
+
+[] Windows Only (drivers for connecting to the board): https://rb.gy/o4z9f  (official page link: rb.gy/2njvp)
+    - Run as administrator -> stlink_winsub_install.bat
+
+[] Install PlatformIO extension
+  -> Might get prompt for
+    [] Install python3
+    [] Install gcc or clang 
+
+[] Build a sample project
+
+Extras:
+[] Install Teleplot - Vs code extension
+[] Install pio cli - pip install platformio
